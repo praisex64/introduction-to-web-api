@@ -75,3 +75,8 @@ These are used to provide users permission to perform API calls. Authentication 
 
 2. API keys
 API keys authenticate the software or application that is making the API call. They identify the program and ensure it has the necessary access rights to make the API call. API keys are not as secure as tokens, but they do allow API monitoring to collect usage data. When you visit different websites, you may have observed a long string of characters and numbers in your browser URL. This string serves as an API key for the website's internal API calls.
+
+## What is web API?
+A Web API, also known as a Web Service API, is an application processing interface that connects a web server and a web browser. APIs are all web services, but not all web services are APIs. 
+
+REST API is a form of Web API that follows the standard architectural style described above.
