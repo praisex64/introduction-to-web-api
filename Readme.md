@@ -36,3 +36,19 @@ REST APIs in more detail below.
 Representational State Transfer is referred to as REST. For clients to access server data, REST defines a set of functions including GET, PUT, DELETE, etc. Using HTTP, clients and servers exchange data.
 
 The main feature of REST API is statelessness. Statelessness means that servers do not save client data between requests. Client requests to the server are similar to URLs you type in your browser to visit a website. The response from the server is plain data, without the typical graphical rendering of a web page.
+
+## What are the benefits of REST APIs?
+
+REST APIs offer four main benefits:
+1. Integration 
+
+APIs are used to integrate new applications with existing software systems. This increases development speed because each functionality doesn’t have to be written from scratch. You can use APIs to leverage existing code.
+2. Innovation 
+
+Entire industries can change with the arrival of a new app. Businesses need to respond quickly and support the rapid deployment of innovative services. They can do this by making changes at the API level without having to re-write the whole code.
+3. Expansion
+
+APIs present a unique opportunity for businesses to meet their clients’ needs across different platforms. For example, maps API allows map information integration via websites, Android,iOS, etc. Any business can give similar access to their internal databases by using free or paid APIs.
+4. Ease of maintenance
+
+The API acts as a gateway between two systems. Each system is obliged to make internal changes so that the API is not impacted. This way, any future code changes by one party do not impact the other party.
