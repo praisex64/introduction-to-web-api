@@ -41,14 +41,28 @@ The main feature of REST API is statelessness. Statelessness means that servers 
 
 REST APIs offer four main benefits:
 1. Integration 
-
 APIs are used to integrate new applications with existing software systems. This increases development speed because each functionality doesn’t have to be written from scratch. You can use APIs to leverage existing code.
-2. Innovation 
 
+2. Innovation
 Entire industries can change with the arrival of a new app. Businesses need to respond quickly and support the rapid deployment of innovative services. They can do this by making changes at the API level without having to re-write the whole code.
+
 3. Expansion
-
 APIs present a unique opportunity for businesses to meet their clients’ needs across different platforms. For example, maps API allows map information integration via websites, Android,iOS, etc. Any business can give similar access to their internal databases by using free or paid APIs.
-4. Ease of maintenance
 
+4. Ease of maintenance
 The API acts as a gateway between two systems. Each system is obliged to make internal changes so that the API is not impacted. This way, any future code changes by one party do not impact the other party.
+
+## What are the different types of APIs?
+APIs are classified both according to their architecture and scope of use.
+
+### Private APIs
+These are internal to an enterprise and only used for connecting systems and data within the business.
+
+### Public APIs 
+These are open to the public and may be used by anyone. There may or not be some authorization and cost associated with these types of APIs.
+
+### Partner APIs 
+These are only accessible by authorized external developers to aid business-to-business partnerships.
+
+### Composite APIs
+These combine two or more different APIs to address complex system requirements or behaviors. 
