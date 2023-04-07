@@ -66,3 +66,12 @@ These are only accessible by authorized external developers to aid business-to-b
 
 ### Composite APIs
 These combine two or more different APIs to address complex system requirements or behaviors. 
+
+## How to secure a REST API?
+Through adequate authentication and monitoring, all APIs must be secured. There are two primary methods for protecting REST APIs:
+
+1. Authentication tokens
+These are used to provide users permission to perform API calls. Authentication tokens verify that the users are who they say they are and that they have permission to make that particular API call. When you connect in to your email server, for example, your email client uses authentication tokens to provide secure access.
+
+2. API keys
+API keys authenticate the software or application that is making the API call. They identify the program and ensure it has the necessary access rights to make the API call. API keys are not as secure as tokens, but they do allow API monitoring to collect usage data. When you visit different websites, you may have observed a long string of characters and numbers in your browser URL. This string serves as an API key for the website's internal API calls.
